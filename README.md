@@ -1,5 +1,9 @@
-<h1 align="left">Hi 👋, I'm Gyu-won,Oh</h1>
-<h3 align="left">A passionate backend developer from Korea</h3>
+<h1 align="center">안녕하세요 백엔드 개발자 오규원 입니다.</h1>
+<h3 align="center">다양한 개발을 통해 어떤 상황에서도 적응하는 개발자가 되고 싶습니다.</h3>
+
+- 🌱 저는 현재 국비 교육 과정을 들으며 **spring framework,java,orecle,css,HTML**을 학습하였습니다.
+
+- 📫 제게 연락이 필요하시다면 **ogw0627@gmail.com**로 메일 부탁드립니다.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
