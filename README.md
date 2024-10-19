@@ -5,7 +5,6 @@
 
 - 📫 제게 연락이 필요하시다면 **ogw0627@gmail.com**로 메일 부탁드립니다.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
